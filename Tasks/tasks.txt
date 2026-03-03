@@ -1,0 +1,79 @@
+// 1. Prime Checker
+// - Ask the user to enter a number.
+// - Check if it is a prime number using a for loop and if statements.
+
+// 2. Sum of Digits
+// - Ask the user for an integer.
+// - Calculate and print the sum of its digits.
+
+// 3. Factorial
+// - Ask for an integer.
+// - Compute its factorial using a for loop.
+
+// 4. Reverse a Number
+// - Ask for an integer.
+// - Reverse its digits and print the result.
+
+// 5. Even-Odd Counter
+// - Ask the user for 5 integers.
+// - Count how many are even and how many are odd using if/else.
+
+// 6. Max of 3 Numbers
+// - Ask the user for 3 integers.
+// - Use if/else to print the largest number.
+
+// 7. Simple Array Sum
+// - Ask for 5 numbers and store them in an array.
+// - Calculate and print their sum using a loop.
+
+// 8. Count Vowels in String
+// - Ask the user for a string (use char array).
+// - Count and print the number of vowels (a, e, i, o, u). Hint: use ctype.h for tolower().
+
+// 9. Multiplication Table
+// - Ask the user to enter an integer.
+// - Print the multiplication table for that number from 1 to 10.
+
+// 10. Number Guessing Game
+// - Generate a random number between 1 and 50 (use stdlib.h).
+// - Let the user guess until correct. Give hints if too high/low.
+
+// 11. Simple Caesar Cipher
+// - Ask the user for a string and a shift number.
+// - Shift each character by the number and print the result. (Encrypting text)
+
+// 12. ASCII Value Table
+// - Print all characters and their ASCII codes from 32 to 126.
+
+// 13. Password Strength Checker
+// - Ask the user for a password.
+// - Check if it contains at least one uppercase, lowercase, digit, and special character using ctype.h.
+
+// 14. Frequency Counter
+// - Ask the user for a string.
+// - Count and print how many times each character appears. Use arrays or loops.
+
+// 15. Reverse String Without Library
+// - Ask the user for a string.
+// - Reverse it manually without using `strrev()`.
+
+// 16. Simple XOR Encryption
+// - Ask the user for a string and a key (integer).
+// - XOR each character with the key and print the result (basic reversible encryption).
+
+// 17. Detect Palindrome
+// - Ask the user for a string.
+// - Check if it reads the same forwards and backwards. Ignore case and spaces.
+
+// 18. Port Scanner Simulation
+// - Ask the user for a range of ports (integers).
+// - Simulate “open/closed” randomly for each port and print results. (Learning loops, arrays, randomness)
+
+// 19. Brute Force Password Simulation
+// - Choose a simple password (4 lowercase letters).
+// - Write a loop to generate all combinations until it matches the password. Count attempts. (Legal simulation only)
+
+// 20. Simple Hash Function
+// - Ask the user for a string.
+// - Compute a simple hash by summing ASCII values modulo 256. Print the result.
+// - (Introduces hashing concepts without real crypto)
